@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ABC Ltd.",
+    "phone": "0532 000 00 00",
+    "totaldebt": 12000,
+    "totalclaim": 5000,
+    "email": "abc@example.com"
+  },
+  {
+    "name": "XYZ A.Ş.",
+    "phone": "0532 111 11 11",
+    "totaldebt": 8000,
+    "totalclaim": 3000,
+    "email": "xyz@example.com"
+  },
+  {
+    "name": "Kaya İnşaat",
+    "phone": "0543 222 22 22",
+    "totaldebt": 20000,
+    "totalclaim": 7000,
+    "email": "kaya@example.com"
+  },
+  {
+    "name": "Beta Elektronik",
+    "phone": "0535 333 33 33",
+    "totaldebt": 15000,
+    "totalclaim": 9000,
+    "email": "beta@example.com"
+  },
+  {
+    "name": "Çınar Gıda",
+    "phone": "0544 444 44 44",
+    "totaldebt": 5000,
+    "totalclaim": 2500,
+    "email": "cinar@example.com"
+  },
+  {
+    "name": "Deniz Turizm",
+    "phone": "0537 555 55 55",
+    "totaldebt": 3000,
+    "totalclaim": 4000,
+    "email": "deniz@example.com"
+  },
+  {
+    "name": "Elit Medya",
+    "phone": "0531 666 66 66",
+    "totaldebt": 18000,
+    "totalclaim": 12000,
+    "email": "elit@example.com"
+  },
+  {
+    "name": "Fırtına Tekstil",
+    "phone": "0530 777 77 77",
+    "totaldebt": 22000,
+    "totalclaim": 17000,
+    "email": "firtina@example.com"
+  },
+  {
+    "name": "Gölge Yazılım",
+    "phone": "0542 888 88 88",
+    "totaldebt": 9500,
+    "totalclaim": 3500,
+    "email": "golge@example.com"
+  },
+  {
+    "name": "Hedef Eğitim",
+    "phone": "0546 999 99 99",
+    "totaldebt": 1000,
+    "totalclaim": 500,
+    "email": "hedef@example.com"
+  }
+]
