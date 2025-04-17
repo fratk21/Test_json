@@ -1,5 +1,6 @@
 [
   {
+    "cariid": "1",
     "name": "ABC Ltd.",
     "phone": "0532 000 00 00",
     "totaldebt": 12000,
@@ -7,6 +8,7 @@
     "email": "abc@example.com"
   },
   {
+    "cariid": "2",
     "name": "XYZ A.Ş.",
     "phone": "0532 111 11 11",
     "totaldebt": 8000,
@@ -14,6 +16,7 @@
     "email": "xyz@example.com"
   },
   {
+    "cariid": "3",
     "name": "Kaya İnşaat",
     "phone": "0543 222 22 22",
     "totaldebt": 20000,
@@ -21,6 +24,7 @@
     "email": "kaya@example.com"
   },
   {
+    "cariid": "4",
     "name": "Beta Elektronik",
     "phone": "0535 333 33 33",
     "totaldebt": 15000,
@@ -28,6 +32,7 @@
     "email": "beta@example.com"
   },
   {
+    "cariid": "5",
     "name": "Çınar Gıda",
     "phone": "0544 444 44 44",
     "totaldebt": 5000,
@@ -35,6 +40,7 @@
     "email": "cinar@example.com"
   },
   {
+    "cariid": "6",
     "name": "Deniz Turizm",
     "phone": "0537 555 55 55",
     "totaldebt": 3000,
@@ -42,6 +48,7 @@
     "email": "deniz@example.com"
   },
   {
+    "cariid": "7",
     "name": "Elit Medya",
     "phone": "0531 666 66 66",
     "totaldebt": 18000,
@@ -49,6 +56,7 @@
     "email": "elit@example.com"
   },
   {
+    "cariid": "8",
     "name": "Fırtına Tekstil",
     "phone": "0530 777 77 77",
     "totaldebt": 22000,
@@ -56,6 +64,7 @@
     "email": "firtina@example.com"
   },
   {
+    "cariid": "9",
     "name": "Gölge Yazılım",
     "phone": "0542 888 88 88",
     "totaldebt": 9500,
@@ -63,6 +72,7 @@
     "email": "golge@example.com"
   },
   {
+    "cariid": "10",
     "name": "Hedef Eğitim",
     "phone": "0546 999 99 99",
     "totaldebt": 1000,
