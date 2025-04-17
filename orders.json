@@ -1,0 +1,63 @@
+[
+    {
+      "cari": "ABC Ltd.",
+      "cariid": "1",
+      "urunid": "23",
+      "siparisid": "12",
+      "urun": "Laptop",
+      "adet": 1,
+      "birimFiyat": 10000,
+      "kdv": 0.18,
+      "iskontopara": 500,
+      "iskontoYuzde": 0,
+      "parabirimi": "TL",
+      "tarih": "2025-05-01",
+      "durum": "Bekliyor"
+    },
+    {
+      "cari": "XYZ A.Ş.",
+      "cariid": "2",
+      "urunid": "45",
+      "siparisid": "13",
+      "urun": "Yazıcı",
+      "adet": 2,
+      "birimFiyat": 3000,
+      "kdv": 0.18,
+      "iskontopara": 0,
+      "iskontoYuzde": 0.10,
+      "parabirimi": "USD",
+      "tarih": "2025-04-28",
+      "durum": "Tamamlandı"
+    },
+    {
+      "cari": "Test Müşteri",
+      "cariid": "3",
+      "urunid": "67",
+      "siparisid": "14",
+      "urun": "Tarayıcı",
+      "adet": 1,
+      "birimFiyat": 2500,
+      "kdv": 0.18,
+      "iskontopara": 0,
+      "iskontoYuzde": 0.05,
+      "parabirimi": "EURO",
+      "tarih": "2025-04-20",
+      "durum": "İptal Edildi"
+    },
+    {
+      "cari": "Deneme Firma",
+      "cariid": "4",
+      "urunid": "89",
+      "siparisid": "15",
+      "urun": "Klavye",
+      "adet": 3,
+      "birimFiyat": 500,
+      "kdv": 0.18,
+      "iskontopara": 0,
+      "iskontoYuzde": 0,
+      "parabirimi": "TL",
+      "tarih": "2025-05-03",
+      "durum": "Bekliyor"
+    }
+  ]
+  
