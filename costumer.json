@@ -5,7 +5,8 @@
     "phone": "0532 000 00 00",
     "totaldebt": 0,
     "totalclaim": 0,
-    "email": "abc@example.com"
+    "email": "abc@example.com",
+       "parabirimi":"TL"
   },
   {
     "cariid": "2",
@@ -13,7 +14,8 @@
     "phone": "0532 111 11 11",
     "totaldebt": 8000,
     "totalclaim": 3000,
-    "email": "xyz@example.com"
+    "email": "xyz@example.com",
+       "parabirimi":"USD"
   },
   {
     "cariid": "3",
