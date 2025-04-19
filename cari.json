@@ -1,0 +1,83 @@
+[
+    {
+      "tarih": "2025-04-01",
+      "tip": "Satış",
+      "aciklama": "Laptop Satışı",
+      "borc": 12000,
+      "alacak": 0,
+      "cariid": "1"
+    },
+    {
+      "tarih": "2025-04-03",
+      "tip": "Satış",
+      "aciklama": "Yazıcı Satışı",
+      "borc": 3000,
+      "alacak": 0,
+      "cariid": "2"
+    },
+    {
+      "tarih": "2025-04-04",
+      "tip": "Ödeme",
+      "aciklama": "Nakit Tahsilat",
+      "borc": 0,
+      "alacak": 5000,
+      "cariid": "1"
+    },
+    {
+      "tarih": "2025-04-05",
+      "tip": "Satış",
+      "aciklama": "Tarayıcı Satışı",
+      "borc": 2500,
+      "alacak": 0,
+      "cariid": "3"
+    },
+    {
+      "tarih": "2025-04-06",
+      "tip": "İade",
+      "aciklama": "Klavye İadesi",
+      "borc": 0,
+      "alacak": 500,
+      "cariid": "4"
+    },
+    {
+      "tarih": "2025-04-08",
+      "tip": "Satış",
+      "aciklama": "Monitör Satışı",
+      "borc": 8000,
+      "alacak": 0,
+      "cariid": "2"
+    },
+    {
+      "tarih": "2025-04-10",
+      "tip": "Ödeme",
+      "aciklama": "Havale ile ödeme",
+      "borc": 0,
+      "alacak": 3000,
+      "cariid": "3"
+    },
+    {
+      "tarih": "2025-04-12",
+      "tip": "Satış",
+      "aciklama": "Telefon Satışı",
+      "borc": 15000,
+      "alacak": 0,
+      "cariid": "5"
+    },
+    {
+      "tarih": "2025-04-13",
+      "tip": "İade",
+      "aciklama": "Tablet İadesi",
+      "borc": 0,
+      "alacak": 2000,
+      "cariid": "5"
+    },
+    {
+      "tarih": "2025-04-14",
+      "tip": "Ödeme",
+      "aciklama": "Nakit ödeme",
+      "borc": 0,
+      "alacak": 7000,
+      "cariid": "2"
+    }
+  ]
+  
