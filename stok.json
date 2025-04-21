@@ -9,7 +9,7 @@
     "satis_fiyati": 220.00,
     "kdv_yuzdesi": 18,
     "barkod": "8691234567890",
-    "urun_fotograf_url": "https://example.com/images/mouse.jpg",
+    "urun_fotograf_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7ZcZKWO4Qr5mEH-fWArglfKaGaUA9Uf_iw&s",
     "son_guncelleme": "2025-04-20"
   },
   {
@@ -22,7 +22,7 @@
     "satis_fiyati": 14800.00,
     "kdv_yuzdesi": 20,
     "barkod": "8691234567891",
-    "urun_fotograf_url": "https://example.com/images/laptop.jpg",
+    "urun_fotograf_url": "",
     "son_guncelleme": "2025-04-20"
   },
   {
@@ -35,7 +35,7 @@
     "satis_fiyati": 250.00,
     "kdv_yuzdesi": 8,
     "barkod": "8691234567892",
-    "urun_fotograf_url": "https://example.com/images/kagit.jpg",
+    "urun_fotograf_url": "",
     "son_guncelleme": "2025-04-19"
   },
   {
@@ -48,7 +48,7 @@
     "satis_fiyati": 1200.00,
     "kdv_yuzdesi": 18,
     "barkod": "8691234567893",
-    "urun_fotograf_url": "https://example.com/images/ssd.jpg",
+    "urun_fotograf_url": "",
     "son_guncelleme": "2025-04-18"
   }
 ]
