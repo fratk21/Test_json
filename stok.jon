@@ -1,0 +1,54 @@
+[
+  {
+    "stok_kodu": "23",
+    "urun_adi": "Logitech Kablosuz Mouse",
+    "kategori": "Bilgisayar Aksesuarları",
+    "birim": "Adet",
+    "miktar": 50,
+    "alis_fiyati": 150.00,
+    "satis_fiyati": 220.00,
+    "kdv_yuzdesi": 18,
+    "barkod": "8691234567890",
+    "urun_fotograf_url": "https://example.com/images/mouse.jpg",
+    "son_guncelleme": "2025-04-20"
+  },
+  {
+    "stok_kodu": "45",
+    "urun_adi": "HP 15.6'' Laptop",
+    "kategori": "Bilgisayar",
+    "birim": "Adet",
+    "miktar": 20,
+    "alis_fiyati": 12500.00,
+    "satis_fiyati": 14800.00,
+    "kdv_yuzdesi": 20,
+    "barkod": "8691234567891",
+    "urun_fotograf_url": "https://example.com/images/laptop.jpg",
+    "son_guncelleme": "2025-04-20"
+  },
+  {
+    "stok_kodu": "65",
+    "urun_adi": "A4 Fotokopi Kağıdı",
+    "kategori": "Ofis Malzemeleri",
+    "birim": "Koli",
+    "miktar": 80,
+    "alis_fiyati": 180.00,
+    "satis_fiyati": 250.00,
+    "kdv_yuzdesi": 8,
+    "barkod": "8691234567892",
+    "urun_fotograf_url": "https://example.com/images/kagit.jpg",
+    "son_guncelleme": "2025-04-19"
+  },
+  {
+    "stok_kodu": "12",
+    "urun_adi": "Samsung SSD 1TB",
+    "kategori": "Donanım",
+    "birim": "Adet",
+    "miktar": 35,
+    "alis_fiyati": 950.00,
+    "satis_fiyati": 1200.00,
+    "kdv_yuzdesi": 18,
+    "barkod": "8691234567893",
+    "urun_fotograf_url": "https://example.com/images/ssd.jpg",
+    "son_guncelleme": "2025-04-18"
+  }
+]
